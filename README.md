@@ -33,6 +33,9 @@ You also have the option to set the description font size:
     
 By default, the badge description fontsize is set to 15px.
 
+Example
+------------
+An example of how it looks like: [Click here](http://omarusman.com/blog/about)
 
 FAQ
 ------------
